@@ -1,0 +1,8 @@
+*.pyc
+.*
+input/*.txt
+input/*.svg
+output/*.pdf
+output/*.svg
+test/output/*.pdf
+test/output/*.svg
