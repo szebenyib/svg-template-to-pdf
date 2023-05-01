@@ -18,7 +18,7 @@ cycler==0.10.0
 Cython==0.27.3
 decorator==4.1.2
 docutils==0.14
-Flask==1.0
+Flask==2.3.2
 fpdf==1.7.2
 greenlet==0.4.12
 httplib2==0.10.3
